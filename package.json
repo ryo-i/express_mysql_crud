@@ -1,0 +1,25 @@
+{
+  "name": "express_mysql_crud",
+  "version": "1.0.0",
+  "description": "ExpressでFetch APIとMySQLを連携してCRUDする",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryo-i/express_mysql_crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryo-i/express_mysql_crud/issues"
+  },
+  "homepage": "https://github.com/ryo-i/express_mysql_crud#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
